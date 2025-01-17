@@ -18,6 +18,6 @@ Deploy a scalable, fault-tolerant web application using AWS services.
 
 ## Presentation
 ### Diagram
-![AWS_ScalableWebApp.jpg](../AWS_ScalableWebApp.jpg)
+![Diagram.jpg](Diagram.jpg)
 ### Implementation Details
 The detailed implementation details and presentation are in the [PRESENTATION.md](PRESENTATION.md)
