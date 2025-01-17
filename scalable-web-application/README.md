@@ -16,6 +16,8 @@ Deploy a scalable, fault-tolerant web application using AWS services.
 - Relevant Code or Configuration Files
 - Screenshots of Results or Logs
 
-## Notes
-- Ensure all AWS resources are cleaned up after testing to avoid unnecessary costs.
-- Include documentation for configurations and test cases.
+## Presentation
+### Diagram
+![AWS_ScalableWebApp.jpg](../AWS_ScalableWebApp.jpg)
+### Implementation Details
+The detailed implementation details and presentation are in the [PRESENTATION.md](PRESENTATION.md)
